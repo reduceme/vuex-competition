@@ -1,0 +1,38 @@
+h1 {
+  color: #0aaaee
+}
+
+h2 {
+  color: #0aa868
+}
+
+.el-dialog__header {
+  background: #4286DC;
+  padding: 15px;
+}
+
+.el-button {
+  background: #4286DC;
+  width: 90px;
+}
+
+.el-dialog__title {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.require-content .el-form-item__label:before {
+  content: '*';
+  color: red;
+  font-size: 20px;
+  vertical-align: middle;
+  font-weight: 900;
+}
+
+.el-textarea {
+  width: 95%;
+}
+
+.el-dialog__body{
+  padding: 30px 20px 0 20px;
+}

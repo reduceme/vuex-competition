@@ -1,0 +1,34 @@
+.search-content {
+  width: 100%;
+  height: 100px;
+}
+
+.search-display-method {
+  display: inline-block;
+  height: 100px;
+  background: #EEEEEE;
+}
+
+.demo-input-suffix, .content-search-button {
+  float: left;
+  display: block;
+  height: 100px;
+  line-height: 100px;
+}
+
+.line-content {
+  width: 2px;
+  background: #DEDEDE;
+  float: left;
+  height: 50px;
+  margin-top: 25px;
+  display: block;
+}
+
+.el-input {
+  width: calc(100% - 100px);
+}
+
+.el-select {
+  width: calc(100% - 100px);
+}
